@@ -14,11 +14,11 @@ The idea was to create a language that would satisfy the following criteria:
 No. They may evolve, at any time.
 
 # What's this repo for?
-1. This repo will contain different design intended for discussion and choosing what is better. Something like RFC but less strict.
+1. This repo will contain different design suggestions intended for discussion and choosing what is better. Something like RFC but less strict.
 2. This repo will also gather all the issues for gathering the feedback. Ask anything, propose anything, contribute anything.
 
 # Who am I?
-Don't think of it. I am not a language expert. I am not genius. I have a problem that I like both Rust and LISP. I want to solve this problem. I am unknown to you and would like to stay so.
+Don't think of it. I am not a language expert. I am not genius. My problem is that I like both Rust and LISP. I want to solve this problem.
 
 # Links
 [Reddit post #1](https://www.reddit.com/r/rust/comments/86jm7m/thinking_about_lisplike_language_with_rust_interop/)
