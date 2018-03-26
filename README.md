@@ -1,7 +1,7 @@
 # LIR
 A lisp implementation for the rust interop.
 
-The original idea was to develop such a language which satisfied these criteria:
+The idea was to create a language that would satisfy the following criteria:
 
 1. It is a LISP for Rust as Clojure for Java.
 2. It ensures all the best things in Rust in LISP manner (type safety, compilation, crates)
